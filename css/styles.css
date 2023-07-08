@@ -1,5 +1,11 @@
 a {
+    display: inline-block;
     text-align: center;
     text-decoration: none;
-    background-color: rgb(7, 7, 167);
+    background-color: rgb(150, 150, 150);
+    color: rgb(0, 0, 0);
+    width: 15%;
+    margin: 2% 2% 5%;
+    padding: 1% 2%;
+    border-radius: 5%;
 }
