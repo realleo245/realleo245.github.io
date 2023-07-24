@@ -8,4 +8,5 @@ a {
     margin: 2% 2% 5%;
     padding: 1% 2%;
     border-radius: 5%;
+    visibility: hidden;
 }
