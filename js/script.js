@@ -1,1 +1,1 @@
-window.location.replace("https://realleo245.github.io/Chess/");
+window.location.replace("https://realleo245.github.io/Choreo-Docs/");
